@@ -84,13 +84,13 @@ Created and linked using **Group Policy Management Console (gpmc.msc)**:
 Result: Commands disabled for all users in the **HR and IT OU**.
 
 ---
-
+ 
 ## Screenshots
 
 - AD Domain Structure
 - GPO Editor Screenshot
 - PC joined to domain
-- Result of denied USB access
+- [Result of denied shutdown command access](https://github.com/Adesanya9/-Active-Directory-Simulation/blob/main/Screenshots/Access_denied.PNG)
 
 ---
 
