@@ -75,13 +75,13 @@ CyberTech.local
 
 Created and linked using **Group Policy Management Console (gpmc.msc)**:
 
-- **GPO Name**: `DisableRemovableDrives`
+- **GPO Name**: `DisablePowerShutdownoptions`
 - **Linked to**: OU: IT Department
 - **Policy Configured**:
   - `Computer Configuration` > `Administrative Templates` > `System` > `Removable Storage Access`
-  - Set **"All Removable Storage classes: Deny all access"** to **Enabled**
+  - Set **"Remove and prevent all access to shutdown, restart and hibernate commands"** to **Enabled**
 
-Result: USB and external drives are disabled for all users in the **Accounts OU**.
+Result: Commands disabled for all users in the **HR and IT OU**.
 
 ---
 
