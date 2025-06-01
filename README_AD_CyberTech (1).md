@@ -62,8 +62,8 @@ Created using **Active Directory Users and Computers**:
 ```
 CyberTech.local
 ├── OU: IT Department
-│   └── Users: Alex.IT
-    └── Users: Charles.IT
+│   └── Users: Tobi.IT
+    └── Users: Adesanya.IT
 
 ├── OU: Sales
 │   └── Users:
@@ -105,5 +105,5 @@ Result: USB and external drives are disabled for all users in the **Accounts OU*
 
 ## Author
 
-**Aliu B. Sanusi**  
+**Adesanya Adedokun**  
 Cybersecurity Analyst  
